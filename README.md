@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PangAdomat
+- 👋 Hi, I’m @PangK.
 - 👀 I’m interested in SQL Server/Analytics/DataMining/Text Mining
 - 🌱 I’m currently learning Microsoft SQL Server/Visual Studio/Azure Data Studio
 - 💞️ I’m looking to collaborate on any kind of Bootstrap
